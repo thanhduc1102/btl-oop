@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+E:\duc\TAI_LIEU_HUST\20221\IT3100_Object_Oriented_Programming_Java\ProjectOopHust\.metadata\.plugins\org.eclipse.jdt.core
+3321238521.index
+3961442468.index
+4249676607.index
+2613669239.index
+2179620843.index
+1171511045.index
+2904556107.index
+2061190428.index
+1865797976.index
+3091558384.index
+3780500448.index
+1967826972.index
+1104656708.index
+40486074.index

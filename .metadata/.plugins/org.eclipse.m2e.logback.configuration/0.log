@@ -1,0 +1,19 @@
+2022-12-01 09:28:41,430 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-01 09:30:16,600 [Worker-14: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-01 09:30:20,636 [Worker-14: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.example:tes2:1.0-SNAPSHOT @ E:\duc\TAI_LIEU_HUST\20221\IT3100_Object_Oriented_Programming_Java\project-oop-hust\pom.xml.
+2022-12-01 09:30:22,647 [Worker-14: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project-oop-hust/src/main/java
+2022-12-01 09:30:22,647 [Worker-14: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /project-oop-hust/src/test/java
+2022-12-01 09:30:22,821 [Worker-14: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2022-12-01 09:30:23,794 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.example:tes2:1.0-SNAPSHOT @ E:\duc\TAI_LIEU_HUST\20221\IT3100_Object_Oriented_Programming_Java\project-for-oop-master\pom.xml.
+2022-12-01 09:30:23,996 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:30:23,998 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\duc\TAI_LIEU_HUST\20221\IT3100_Object_Oriented_Programming_Java\project-for-oop-master\src\main\resources
+2022-12-01 09:30:24,001 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:30:24,002 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\duc\TAI_LIEU_HUST\20221\IT3100_Object_Oriented_Programming_Java\project-for-oop-master\src\test\resources
+2022-12-01 09:30:24,351 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:30:24,352 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\duc\TAI_LIEU_HUST\20221\IT3100_Object_Oriented_Programming_Java\project-oop-hust\src\main\resources
+2022-12-01 09:30:24,354 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:30:24,354 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\duc\TAI_LIEU_HUST\20221\IT3100_Object_Oriented_Programming_Java\project-oop-hust\src\test\resources
+2022-12-01 09:30:25,629 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:30:25,629 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\duc\TAI_LIEU_HUST\20221\IT3100_Object_Oriented_Programming_Java\project-for-oop-master\src\main\resources
+2022-12-01 09:30:25,631 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-01 09:30:25,631 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\duc\TAI_LIEU_HUST\20221\IT3100_Object_Oriented_Programming_Java\project-for-oop-master\src\test\resources
